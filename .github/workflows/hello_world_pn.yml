@@ -23,6 +23,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Hello
+      - name: Hello_2
         run: echo "Hello World 2"
         shell: bash
